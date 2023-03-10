@@ -1,8 +1,17 @@
+# Desafio | Back-end - Módulo 3 | Cubos Academy
+
+### Desafio aplicado pela Cubos Academy referente ao módulo 3 do curso:
+
+- SQL: Tabelas, Relações, Comandos.
+
+- Node: Utilizando SQL no Node.
+
+- Autenticação e Criptografia.
+
+### O objetivo foi desenvolver uma API REST para o controle de finanças pessoais que permita:
+<br>
 
 
-# Desafio Módulo 3 - Backend ApiREST DINDIN CONTROLE DE COBRANÇAS
-
-Seu papel é construir uma RESTful API que permita:
 
 - Cadastrar Usuário
 - Fazer Login 
@@ -15,7 +24,8 @@ Seu papel é construir uma RESTful API que permita:
 - Editar transação 
 - Remover transação 
 - Obter extrato de transações 
-- [Extra] Filtrar transações por categoria 
+- Filtrar transações por categoria 
+<br>
 
 **Importante: Lembre-se sempre que cada usuário só pode ver e manipular seus próprios dados e suas próprias transações. Não atender a este pré-requisito é uma falha de segurança gravíssima!**
 
